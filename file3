@@ -1,0 +1,5 @@
+docker commands
+FROM
+ENTRYPOINT
+RUN
+
